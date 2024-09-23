@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'crashRT memo',
-  tagline: 'Dinosaurs are cool',
+  tagline: '知見を共有するためのサイト',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -76,7 +76,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Note',
         },
         {to: '/blog', label: 'Memo', position: 'left'},
         {
@@ -93,7 +93,7 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Note',
               to: '/docs/intro',
             },
           ],
