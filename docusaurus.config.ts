@@ -89,7 +89,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'noteSidebar',
           position: 'left',
-          label: '知見ノート',
+          label: 'ノート',
         },
         // {to: '/blog', label: 'Memo', position: 'left'},
         {
@@ -106,8 +106,16 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Note',
-              to: '/docs/intro',
+              label: '勉強会資料',
+              to: '/docs/slides',
+            },
+            {
+              label: 'ITインフラ爆速入門',
+              to: '/docs/infra',
+            },
+            {
+              label: 'ノート',
+              to: '/docs/note',
             },
           ],
         },
