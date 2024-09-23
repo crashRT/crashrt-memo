@@ -75,11 +75,23 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'slideSidebar',
           position: 'left',
-          label: 'Note',
+          label: '勉強会資料',
         },
-        {to: '/blog', label: 'Memo', position: 'left'},
+        {
+          type: 'docSidebar',
+          sidebarId: 'itInfraSidebar',
+          position: 'left',
+          label: 'ITインフラ爆速入門',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'noteSidebar',
+          position: 'left',
+          label: '知見ノート',
+        },
+        // {to: '/blog', label: 'Memo', position: 'left'},
         {
           href: 'https://github.com/crashRT/crashrt-memo',
           label: 'GitHub',
