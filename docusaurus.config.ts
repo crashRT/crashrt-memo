@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'crashRT memo',
-  tagline: '知見を共有するためのサイト',
+  tagline: '知見の共有など',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -70,7 +70,7 @@ const config: Config = {
       title: 'crashRT-memo',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/crashrt_alpha.png',
       },
       items: [
         {
