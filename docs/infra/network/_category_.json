@@ -1,0 +1,14 @@
+{
+    "position": 3,
+    "label": "ネットワーク編",
+    "collapsible": true,
+    "collapsed": true,
+    "className": "red",
+    "link": {
+      "type": "generated-index",
+      "title": "ネットワーク編"
+    },
+    "customProps": {
+      "description": "ネットワーク技術についての解説"
+    }
+  }
