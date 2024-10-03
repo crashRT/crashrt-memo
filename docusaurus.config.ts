@@ -30,6 +30,10 @@ const config: Config = {
     locales: ['ja'],
   },
 
+  scripts: [
+    '/js/font.js'
+  ],
+
   presets: [
     [
       'classic',
