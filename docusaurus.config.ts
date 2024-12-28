@@ -162,7 +162,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} crashRT Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} crashRT Built with Docusaurus.<br/>本サイトではアクセス解析のために Cookie を使った Google Analytics を利用しています。`,
     },
     prism: {
       theme: prismThemes.github,
