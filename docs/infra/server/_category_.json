@@ -1,0 +1,14 @@
+{
+    "position": 4,
+    "label": "サーバー編",
+    "collapsible": true,
+    "collapsed": true,
+    "className": "red",
+    "link": {
+      "type": "generated-index",
+      "title": "サーバー編"
+    },
+    "customProps": {
+      "description": "サーバー技術についての解説"
+    }
+  }
