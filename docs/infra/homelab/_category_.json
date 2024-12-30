@@ -1,0 +1,14 @@
+{
+    "position": 5,
+    "label": "自宅サーバーのすゝめ",
+    "collapsible": true,
+    "collapsed": true,
+    "className": "red",
+    "link": {
+      "type": "generated-index",
+      "title": "自宅サーバーのすゝめ"
+    },
+    "customProps": {
+      "description": "自宅サーバー初心者向けの情報"
+    }
+  }
