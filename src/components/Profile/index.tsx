@@ -19,7 +19,7 @@ export default function Profile(): JSX.Element {
         <h3>Link</h3>
         <div className="row">
           <div className="col col--4">
-            <a href="https://www.crashrt.work">
+            <a href="https://crashrt.work">
               <p>Portfolio</p>
             </a>
           </div>
