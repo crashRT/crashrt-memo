@@ -1,4 +1,8 @@
-export default function PdfViewer(props): JSX.Element {
+type PdfViewerProps = {
+    url: string;
+};
+
+export default function PdfViewer(props: PdfViewerProps): JSX.Element {
     const url = props.url;
     return (
         <iframe
